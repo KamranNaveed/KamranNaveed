@@ -12,9 +12,9 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
 
 🔭 I’m currently working on developing a recommender web app (that's actually good) centered around one of my interests, anime.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from travelling, to tinkering, to cooking my favorite ethnic cuisine. (I would also like to learn an instrument or two sometime in the future)
+🧩 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from travelling, to tinkering, to cooking my favorite ethnic cuisine. (I would also like to learn an instrument or two sometime in the future)
 
-📚 I love reading books on personal development & financial literacy. Some of my recommendations are Rich Dad Poor Dad by Robert Kiyosaki and The Upward Spiral by Alex Korb 
+📚 I love reading books on personal development & financial literacy. Some of my recommendations are [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert Kiyosaki and [The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral?ref=nav_sb_noss_l_8) by Alex Korb 
  
 
  ***
@@ -39,10 +39,6 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
 If you have any questions or just want to chat about code, feel free to reach out. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamran.naveedsyed@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-2F8D46?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/)  [![Resume](https://img.shields.io/badge/Resume-BF0000?style=for-the-badge&logo=Files&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/)
-
-
-
-
 
 Also, please feel free to make use of the open source code available on my profile. 😊
 
