@@ -10,7 +10,7 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
 
 🌱 I’m currently learning NextJS, GraphQL and Django.
 
-🔭 I’m currently working on developing a recommendation website (that's actually good) centered around one of my interests, anime.
+🔭 I’m currently working on developing a recommender web app (that's actually good) centered around one of my interests, anime.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from travelling, to tinkering, to cooking my favorite ethnic cuisine. (I would also like to learn an instrument or two sometime in the future)
 
