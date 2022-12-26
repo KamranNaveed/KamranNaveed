@@ -12,10 +12,10 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
 
 🔭 I’m currently working on developing a recommender web app (that's actually good) centered around one of my interests, anime.
 
-🧩 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from travelling, to tinkering, to cooking my favorite ethnic cuisine. (I would also like to learn an instrument or two sometime in the future)
+🧩 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from travelling, to tinkering, to cooking my favorite ethnic cuisine. (I would also like to learn an instrument or two sometime in the future).
 
-📚 I love reading books on personal development & financial literacy. Some of my recommendations are [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert Kiyosaki and [The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral?ref=nav_sb_noss_l_8) by Alex Korb 
- 
+📚 I love reading books on personal development & financial literacy. Some of my recommendations are [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert Kiyosaki and [The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral?ref=nav_sb_noss_l_8) by Alex Korb.
+
 
  ***
  
