@@ -38,7 +38,7 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
 
 If you have any questions or just want to chat about code, feel free to reach out. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamran.naveedsyed@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-8CC445?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/)  [![Resume](https://img.shields.io/badge/Resume-BF0000?style=for-the-badge&logo=Files&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamran.naveedsyed@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-2F8D46?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/)  [![Resume](https://img.shields.io/badge/Resume-BF0000?style=for-the-badge&logo=Files&logoColor=white)](https://www.linkedin.com/in/kamrannaveedsyed/)
 
 
 
