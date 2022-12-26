@@ -21,7 +21,7 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
  
 ## My Skills:
 
-My main expertise is web development using the Javascript ecosystem, but I consider myself a generalist who can learn and adapt to technology specific paradigms and language agnostic problem solving to arrive at solutions. Here is a list of my (ever-expanding) skills: 
+My main expertise is web development using the Javascript ecosystem, but I consider myself a generalist who can learn and adapt to technology specific paradigms and language agnostic problem solving to arrive at solutions. Here is a (ever-expanding) list of my skills: 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
