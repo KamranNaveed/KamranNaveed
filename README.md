@@ -4,7 +4,7 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
 
 😄 Pronouns: He/Him. 
 
-🗣 Name Pronunciation: Kaahm-raahn
+🗣 Name Pronunciation: *Kaahm-raahn*
 
 👨‍💻 I'm always looking to expand my knowledge and skills, and am constantly seeking out new challenges and learning opportunities. Whether it's diving into a new     programming language or tackling a particularly complex problem, I thrive on the process of discovery and growth that comes with learning something new. 
 
