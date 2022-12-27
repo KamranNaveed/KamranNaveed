@@ -8,7 +8,7 @@ Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software 
 
 👨‍💻 I'm always looking to expand my knowledge and skills, and am constantly seeking out new challenges and learning opportunities. Whether it's diving into a new     programming language or tackling a particularly complex problem, I thrive on the process of discovery and growth that comes with learning something new. 
 
-🌱 I’m currently learning NextJS, GraphQL and Django.
+🌱 I’m currently learning GraphQL and Django.
 
 🔭 I’m currently working on developing a recommender web app (that's actually good) centered around one of my interests, anime.
 
