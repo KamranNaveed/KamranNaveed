@@ -1,6 +1,6 @@
-# Hi there 👋
+![Header](./header.png?raw=true)
 
-Thanks for visiting my profile! I am Kamran Naveed Syed, a **Fullstack Software Engineer** with a passion for tackling new challenges and broadening my technical and personal horizon. 
+Thanks for visiting my profile! I am a software developer with a passion for tackling new challenges and broadening my technical and personal horizon. 
 
 The following is a list of some basic information about me:
 
