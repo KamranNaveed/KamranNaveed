@@ -28,13 +28,13 @@ My main expertise is web development using the Javascript ecosystem, but I consi
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FF6C00?style=for-the-badge&logo=Server%20Fault&logoColor=white)
 ### Frontend Development
-![React](https://img.shields.io/badge/React-555?style=for-the-badge&logo=React&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React%20Router&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-555?style=for-the-badge&logo=Next.js&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![React](https://img.shields.io/badge/React-555?style=for-the-badge&logo=React&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-555?style=for-the-badge&logo=Next.js&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)  ![ExpressJS](https://img.shields.io/badge/express.js-555?style=for-the-badge&logo=Express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-77B829?style=for-the-badge&logo=MongoDB&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=F57C00) 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-### CI/CD
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+### CI/CD and Cloud Services
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 
  ***
  
