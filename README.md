@@ -10,7 +10,7 @@ The following is a list of some basic information about me:
 
 👨‍💻 I'm always looking to expand my knowledge and skills, and am constantly seeking out new challenges and learning opportunities. Whether it's diving into a new     programming language or tackling a particularly complex problem, I thrive on the process of discovery and growth that comes with learning something new. 
 
-🌱 I’m currently learning GraphQL and Django.
+🌱 I’m currently learning C#.
 
 🔭 I’m currently working on developing a recommender web app (that's actually good) centered around one of my interests, Anime.
 
