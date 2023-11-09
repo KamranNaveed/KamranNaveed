@@ -8,11 +8,11 @@ The following is a list of some basic information about me:
 
 🗣 Name Pronunciation: *Kaahm-raahn*
 
-👨‍💻 I'm always looking to expand my knowledge and skills, and am constantly seeking out new challenges and learning opportunities. Whether it's diving into a new     programming language or tackling a particularly complex problem, I thrive on the process of discovery and growth that comes with learning something new. 
+👨‍💻 I'm always looking to expand my knowledge and skills, and am constantly seeking out new challenges and learning opportunities. I thrive on the process of discovery and growth that comes with learning something new. 
 
-🌱 I’m currently learning C#.
+🌱 Currently learning C#.
 
-🧩 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from travelling, to tinkering, to cooking my favorite ethnic cuisine. (I would also like to learn an instrument or two sometime in the future).
+🧩 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies include travelling, tinkering, cooking and video games. (I would also like to learn an instrument or two sometime in the future).
 
 📚 I love reading books on personal development & financial literacy. Some of my recommendations are [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) by Robert Kiyosaki and [The Upward Spiral](https://www.goodreads.com/book/show/21413760-the-upward-spiral?ref=nav_sb_noss_l_8) by Alex Korb.
 
