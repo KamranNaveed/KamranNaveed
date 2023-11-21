@@ -10,7 +10,7 @@ The following is a list of some basic information about me:
 
 👨‍💻 I'm always looking to expand my knowledge and skills, and am constantly seeking out new challenges and learning opportunities. I thrive on the process of discovery and growth that comes with learning something new. 
 
-🌱 Currently learning C#.
+🌱 Currently learning Java.
 
 🧩 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies include travelling, tinkering, cooking and video games. (I would also like to learn an instrument or two sometime in the future).
 
@@ -24,9 +24,9 @@ The following is a list of some basic information about me:
 My main expertise is web development using the Javascript ecosystem, but I consider myself a generalist who can adapt to technology specific paradigms and use language agnostic problem solving to arrive at solutions. Here is a list of my skills: 
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-FF6C00?style=for-the-badge&logo=Server%20Fault&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FF6C00?style=for-the-badge&logo=Server%20Fault&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)  
 ### Frontend Development
-![React](https://img.shields.io/badge/React-555?style=for-the-badge&logo=React&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-555?style=for-the-badge&logo=Next.js&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![React](https://img.shields.io/badge/React-555?style=for-the-badge&logo=React&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-555?style=for-the-badge&logo=Next.js&logoColor=white) ![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white) 
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)  ![ExpressJS](https://img.shields.io/badge/express.js-555?style=for-the-badge&logo=Express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-77B829?style=for-the-badge&logo=MongoDB&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=F57C00) 
 ### Design Tools
